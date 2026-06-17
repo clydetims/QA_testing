@@ -1,0 +1,12 @@
+# QA Testing
+
+Automated testing project with Playwright
+
+GITHUB_TOKEN=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
+GITHUB_USERNAME=clydetims
+ALLOW_DIRECT_MAIN_PUSH=true
+
+
+GITHUB_TOKEN=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
+GITHUB_USERNAME=clydetims
+ALLOW_DIRECT_MAIN_PUSH=true
